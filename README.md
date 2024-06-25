@@ -1,0 +1,1 @@
+In this project , I had created a web application of E-commerce website of Amazon . it includes a Home page, Signin/Signup page, and a acheckout cart page. in this i had used html , css, javascipt and media quey to make it more responsive and give a user friendly experience in mobile phones
